@@ -1,1 +1,6 @@
-
+{
+    "serverAddress": "scpnet.iso",
+    "serverName": "Foundation Server V-34",
+    "iconName": "scpimage5.png",
+    "terminalID": "scp"
+}
