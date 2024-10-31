@@ -18,9 +18,9 @@
         "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
     },
     {
-        "from": "Mike",
+        "from": "Site Director Chamberlain",
         "to": ["admin"],
-        "title": "wtf are you kidding me?",
-        "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
+        "title": "are you kidding me?",
+        "body": "Your overuse of D-Class is way out of line. Bring it down to reasonable levels or you'll be force-fed amnestics and demoted to 173 duty."
     }
 ]
