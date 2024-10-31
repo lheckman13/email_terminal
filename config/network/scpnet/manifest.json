@@ -3,4 +3,9 @@
     "serverName": "Foundation Server V-34",
     "iconName": "scpimage5.png",
     "terminalID": "scp"
+        "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "privateConnection"
+    }
 }
