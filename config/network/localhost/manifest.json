@@ -1,5 +1,5 @@
 {
-    "serverAddress": "117.0.0",
+    "serverAddress": "localhost",
     "serverName": "Foundation Server 45-B",
     "iconName": "Moon-icon.png",
     "terminalID": "Y56",
